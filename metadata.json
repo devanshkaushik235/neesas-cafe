@@ -1,0 +1,8 @@
+
+{
+  "name": "NEESA'S CAFE",
+  "description": "An aesthetic, minimalist café website with premium branding, editorial-style chicken imagery, and a calm, slow-living atmosphere.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
